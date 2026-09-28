@@ -1,5 +1,5 @@
 {
-  "Meeting Template": {
+  "Meeting Notes Template": {
     "scope": "markdown",
     "prefix": "mtg",
     "body": [
@@ -34,7 +34,7 @@
     ],
     "description": "Template for meeting notes",
   },
-  "Log Template": {
+  "Log Notes Template": {
     "scope": "markdown",
     "prefix": "log",
     "body": ["# ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}_log", "", "## 今日のタスク", "", "- [ ] ", ""],
